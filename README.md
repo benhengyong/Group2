@@ -7,7 +7,7 @@ Group members: Ben Heng Yong, Alex Feeney, Gayathripriya Vijayakumar, and Vy Ngu
 All the team members contributed equally to this project, this included data analysis, data reporting and presenting.
 
 # Data sources:
-The data used in this project was populated from 'https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release#data-downloads'
+The data used in this project was populated from 'https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release#data-downloads'.
 
 # Background introduction
 Investigating the retail business opportunity in different industry sectors and different states in Australia to: 
@@ -31,5 +31,7 @@ Investigating the retail business opportunity in different industry sectors and 
 
    ![image](https://github.com/benhengyong/Group2/assets/138980156/140874ba-8617-4880-8241-09f2f176d5ea)
 
+# Conclusions
+   [team's input]
 
 
