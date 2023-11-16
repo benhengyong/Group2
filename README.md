@@ -29,4 +29,7 @@ Investigating the retail business opportunity in different industry sectors and 
 4. The industry has the highest revenue in the target state.
    ![image](https://github.com/benhengyong/Group2/assets/138980156/618086f0-4a16-4ec6-8cd1-9801d1427a94)
 
+   ![image](https://github.com/benhengyong/Group2/assets/138980156/140874ba-8617-4880-8241-09f2f176d5ea)
+
+
 
