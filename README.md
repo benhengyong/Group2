@@ -37,5 +37,11 @@ Investigating the retail business opportunity in different industry sectors and 
 
 # Conclusions
    [team's input]
+Question 1.
 
+Question 2.
+
+Question 3. There is no significant difference in growth between different industry groups in ACT
+
+Question 4.
 
