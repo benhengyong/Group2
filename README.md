@@ -25,8 +25,11 @@ Investigating the retail business opportunity in different industry sectors and 
 
 3. The industry with the greatest forcast growth.
    [Ben's input]
+   ![image](https://github.com/benhengyong/Group2/assets/142481554/44580db0-c683-41b2-8e4a-0bc96da49692)
+   ![image](https://github.com/benhengyong/Group2/assets/142481554/5cf4643c-fd8d-44dc-b5a9-f614b242070e)
 
-4. The industry has the highest revenue in the target state.
+
+5. The industry has the highest revenue in the target state.
    [Vy's input]
    ![image](https://github.com/benhengyong/Group2/assets/138980156/618086f0-4a16-4ec6-8cd1-9801d1427a94)
 
