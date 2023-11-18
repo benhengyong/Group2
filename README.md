@@ -37,11 +37,11 @@ Investigating the retail business opportunity in different industry sectors and 
 
 # Conclusions
 
-Question 1. NSW has the highest retail turnover, but ACT has the greatest retail turnover per person.
+1. NSW has the highest retail turnover, but ACT has the greatest retail turnover per person.
 
-Question 2. Best month to open a business is in November.
+2. Best month to open a business is in November.
 
-Question 3. There is no significant difference in growth between different industry groups in ACT.
+3. There is no significant difference in growth between different industry groups in ACT.
 
-Question 4. The supermarket and grocery store sector in the Food retailing industry had the highest revenue in ACT.
+4. The supermarket and grocery store sector in the Food retailing industry had the highest revenue in ACT.
 
