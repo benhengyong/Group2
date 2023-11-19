@@ -19,6 +19,7 @@ Investigating the retail business opportunity in different industry sectors and 
 # Summary findings
 1. The best state to set up a retail business.
    [Gayathripriya's input]
+![image](https://github.com/benhengyong/Group2/assets/142481554/5029933c-60d7-4a85-9a1f-313f6a04c7c6)
 
 2. The best month/season in the calendar year to open a retail business.
    [Alex's input]
